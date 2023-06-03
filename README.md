@@ -1,1 +1,1 @@
-"# mySQL_Node.js_Express" 
+This is project learning about expressjs interacted with MySQL
